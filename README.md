@@ -1,7 +1,7 @@
 #lm2047
 
 ---
-author: @lach1an (lm2047@hw.ac.uk)
+## author: @lach1an (lm2047@hw.ac.uk)
 ---
 TODO:
   - [x] implement folders for images, .css, and .js files
