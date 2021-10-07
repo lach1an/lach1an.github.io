@@ -1,5 +1,5 @@
 $(".favourite").on("click", function(){
   
-    alert("orange");
+    console.log($(this).text());
   
 });
