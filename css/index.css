@@ -53,3 +53,7 @@ ul.posts li {
   color: orange;
   font-weight: 600;
 }
+
+.favourite:hover{
+  cursor: pointer; 
+}
